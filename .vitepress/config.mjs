@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/lipu-sona-pi-sitelen-leko/',  // 👈 must have trailing slash
+  base: "/lipu-sona-pi-sitelen-leko/",  // 👈 must have trailing slash
   title: "lipu sona pi sitelen leko",
   description: "o kama sona e sitelen leko!",
   themeConfig: {

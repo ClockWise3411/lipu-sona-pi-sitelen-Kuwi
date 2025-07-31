@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "sitelen leko"
+  name: "lipu pona pi sitelen leko"
   text: "lipusonapisitelenleko"
-  tagline: o kama sona!
+  tagline: 'o kama sona!'
   actions:
     - theme: brand
       text: Learn sitelen leko 
@@ -18,7 +18,7 @@ features:
   - title: Stacking glyphs
     details: 
   - title: Distinct glyph shapes based on parts of speech
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: 
 ---
 
 <span class="leko big center">okamasonaesitelenlekoa!</span>
