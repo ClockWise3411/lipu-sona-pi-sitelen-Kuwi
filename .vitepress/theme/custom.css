@@ -1,0 +1,21 @@
+@font-face {
+  font-family: sitelen leko;
+  src: url(sitelen.Kuwi.otf) format("opentype");
+}
+
+.leko, span.text {
+  font-family: sitelen leko;
+  font-feature-settings: "liga" 1; /* enable ligatures */
+  overflow-wrap: normal; /* stop auto-wrapping */
+}
+
+.big {
+  font-size: 3rem
+}
+
+.center {
+  width: 100%;
+  text-align: center; 
+  display: inline-block;
+  padding: 30px
+}
