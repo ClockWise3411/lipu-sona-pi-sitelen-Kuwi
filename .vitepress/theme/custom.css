@@ -1,10 +1,10 @@
 @font-face {
-  font-family: sitelen leko;
+  font-family: sitelen kuwi;
   src: url(sitelen.Kuwi.otf) format("opentype");
 }
 
-.leko, span.text {
-  font-family: sitelen leko;
+.kuwi, span.text {
+  font-family: sitelen kuwi;
   font-feature-settings: "liga" 1; /* enable ligatures */
   overflow-wrap: normal; /* stop auto-wrapping */
 }

@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "lipu pona pi sitelen leko"
-  text: "lipusonapisitelenleko"
+  name: "lipu pona pi sitelen Kuwi"
+  text: "lipusonapisitelenKUWI"
   tagline: 'o kama sona!'
   actions:
     - theme: brand
-      text: Learn sitelen leko 
+      text: Learn sitelen Kuwi 
       link: /pages/introduction
     - theme: alt
       text: Use the font
@@ -21,4 +21,4 @@ features:
     details: 
 ---
 
-<span class="leko big center">okamasonaesitelenlekoa!</span>
+<span class="kuwi big center">okamasonaesitelenKUWIa!</span>
