@@ -19,6 +19,7 @@ features:
     details: 
   - title: Distinct glyph shapes based on parts of speech
     details: 
+
 ---
 
 <span class="kuwi big center">okamasonaesitelen-KUWIa!</span>
