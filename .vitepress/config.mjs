@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/lipu-sona-pi-sitelen-kuwi/",  // 👈 must have trailing slash
-  title: "lipu sona pi sitelen kuwi",
-  description: "o kama sona e sitelen kuwi!",
+  title: "lipu sona pi sitelen Kuwi",
+  description: "o kama sona e sitelen Kuwi!",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
