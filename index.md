@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "lipu pona pi sitelen Kuwi"
-  text: "lipusonapisitelen-KUWI"
+  text: "lipusonapisitelenkuwi"
   tagline: 'o kama sona!'
   actions:
     - theme: brand
