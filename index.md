@@ -22,4 +22,4 @@ features:
 
 ---
 
-<span class="kuwi big center">okamasonaesitelen-KUWIa!</span>
+<span class="kuwi big center">okamasonaesitelenkuwia!</span>
