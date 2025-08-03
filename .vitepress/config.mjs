@@ -6,10 +6,10 @@ export default defineConfig({
   title: "lipu sona pi sitelen Kuwi",
   description: "o kama sona e sitelen Kuwi!",
   head: [
-    ['link', { rel: 'icon', href: '/lipu-sona-pi-sitelen-Kuwi/.vitepress/theme/logo.png' }]
+    ['link', { rel: 'icon', href: '/lipu-sona-pi-sitelen-Kuwi/logo.png' }]
   ],
   themeConfig: {
-    logo: '/.vitepress/theme/logo.png',
+    logo: '/logo.png',
     nav: [
       { text: 'introduction', link: '/pages/introduction' },
       { text: 'how to use', link: '/pages/block-structure' }
