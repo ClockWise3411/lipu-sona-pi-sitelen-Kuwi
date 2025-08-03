@@ -165,11 +165,11 @@
 ### Vowels
 | sitelen Lasina | sitelen Kuwi | sitelen Lasina with n | sitelen Kuwi with n |
 | :-: | :-: | :-: | :-: |
-| a | <span class="kuwi big center">A-</span> | an | <span class="kuwi big center">AN-</span> |
-| e | <span class="kuwi big center">E-</span> | en | <span class="kuwi big center">EN-</span> |
-| i | <span class="kuwi big center">I-</span> | in | <span class="kuwi big center">IN-</span> |
-| o | <span class="kuwi big center">O-</span> | on | <span class="kuwi big center">ON-</span> |
-| u | <span class="kuwi big center">U-</span> | un | <span class="kuwi big center">UN-</span> |
+| a | <span class="kuwi big center">A-</span> | an | <span class="kuwi big center">AN--</span> |
+| e | <span class="kuwi big center">E-</span> | en | <span class="kuwi big center">EN--</span> |
+| i | <span class="kuwi big center">I-</span> | in | <span class="kuwi big center">IN--</span> |
+| o | <span class="kuwi big center">O-</span> | on | <span class="kuwi big center">ON--</span> |
+| u | <span class="kuwi big center">U-</span> | un | <span class="kuwi big center">UN--</span> |
 ## Punctuation
 | sitelen Lasina | sitelen Kuwi |
 | :-: | :-: |

@@ -38,7 +38,7 @@ print("### Vowels")
 print("| sitelen Lasina | sitelen Kuwi | sitelen Lasina with n | sitelen Kuwi with n |")
 print("| :-: | :-: | :-: | :-: |")
 for vowel in VOWELS:
-    print(f"| {vowel.strip('-')} | <span class=\"kuwi big center\">{vowel.upper()}-</span> | {vowel.strip('-')}n | <span class=\"kuwi big center\">{vowel.upper()}N-</span> |")
+    print(f"| {vowel.strip('-')} | <span class=\"kuwi big center\">{vowel.upper()}-</span> | {vowel.strip('-')}n | <span class=\"kuwi big center\">{vowel.upper()}N--</span> |")
 print("## Punctuation")
 print("| sitelen Lasina | sitelen Kuwi |")
 print("| :-: | :-: |")
