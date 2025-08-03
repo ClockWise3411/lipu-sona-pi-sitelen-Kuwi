@@ -26,12 +26,12 @@ As most proficient toki pona speakers would know, the pronouns “mi” and “s
 
 <span class="kuwi big center"><span class="red">mi</span><span class="blue">moku</span></span>
 
-However, when the predicate that follows “mi” or “sina” contains a modifier, this predicate phrase should be separated from the pronoun completely using <span class="kuwi medium">-</span>, such as in "<span class="red">mi</span> <span class="blue">soweli</span> <span class="pink">ala</span>":
+However, when the predicate that follows “mi” or “sina” contains a modifier, this predicate phrase should be separated from the pronoun completely using <span class="kuwi medium">-</span>, such as in "<span class="red">mi</span> <span class="blue">soweli ala</span>:
 
-<span class="kuwi big center"><span class="red">mi-</span> <span class="blue">soweli</span><span class="pink">ala</span></span>
+<span class="kuwi big center"><span class="red">mi-</span> <span class="blue">soweliala</span></span>
 
 Below is an incorrect way to write the same sentence.
-<span class="big center kuwi"><span class="red">mi</span><span class="blue">soweli</span> <span class="pink">ala-</span></span>
+<span class="big center kuwi"><span class="red">mi</span><span class="blue">soweli ala-</span></span>
 
 ### Using lon
 Similar to what we saw with "tawa" above, "lon" can act as a modifier when occupying the bottom half of a block or as a preposition when occupying the top half, such as in "soweli <span class="blue">lon</span>" (a <span class="blue">real</span> animal):
