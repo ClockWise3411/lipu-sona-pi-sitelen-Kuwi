@@ -25,6 +25,10 @@
   padding: 30px
 }
 
+.red, .green, .blue, .pink, .gray {
+  display: contents;
+}
+
 .red {
   color: red
 }
