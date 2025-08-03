@@ -7,11 +7,11 @@ Here is a list of all grammatical particles:
 
 | sitelen Lasina | sitelen Kuwi |
 | :-: | :-: |
-| li | <span class="kuwi big center">li</span> |
-| la | <span class="kuwi big center">la</span> |
 | e | <span class="kuwi big center">e</span> |
-| pi | <span class="kuwi big center">pi</span> |
+| la | <span class="kuwi big center">la</span> |
+| li | <span class="kuwi big center">li</span> |
 | o | <span class="kuwi big center">o</span> |
+| pi | <span class="kuwi big center">pi</span> |
 
 All particles sit on the left side of the phrase they modify, with the exception of <span class="blue">la</span>, which sits on the right side. In the sentence, "tenpo pini <span class="blue">la</span> soweli lili li moku", "<span class="blue">la</span>" sits on the right of "tenpo pini".
  
