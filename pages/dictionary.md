@@ -137,18 +137,18 @@
 | o | <span class="kuwi big center">o</span> |
 | pi | <span class="kuwi big center">pi</span> |
 ### Function Words
-| sitelen Lasina | sitelen Kuwi |
-| :-: | :-: |
-| a | <span class="kuwi big center">a</span> |
-| anu | <span class="kuwi big center">anu</span> |
-| en | <span class="kuwi big center">en</span> |
-| kin | <span class="kuwi big center">kin</span> |
-| taso | <span class="kuwi big center">taso</span> |
-| n | <span class="kuwi big center">n-</span> |
+| sitelen Lasina | sitelen Kuwi | sitelen Kuwi (horizontal) |
+| :-: | :-: | :-: |
+| a | <span class="kuwi big center">a</span> | <span class="kuwi big center">a--</span> |
+| anu | <span class="kuwi big center">anu</span> | <span class="kuwi big center">anu--</span> |
+| en | <span class="kuwi big center">en</span> | <span class="kuwi big center">en--</span> |
+| kin | <span class="kuwi big center">kin</span> | <span class="kuwi big center">kin--</span> |
+| taso | <span class="kuwi big center">taso</span> | <span class="kuwi big center">taso--</span> |
+| n | <span class="kuwi big center">n-</span> | <span class="kuwi big center">n---</span> |
 ### Name Glyphs
 | sitelen Lasina | sitelen Kuwi |
 | :-: | :-: |
-| kuwi | <span class="kuwi big center">kuwi</span> |
+| kuwi | <span class="kuwi big center">kuwi-</span> |
 ## Graphemes
 ### Consonants
 | sitelen Lasina | sitelen Kuwi |
@@ -173,6 +173,6 @@
 ## Punctuation
 | sitelen Lasina | sitelen Kuwi |
 | :-: | :-: |
-| . | <span class="kuwi big center">.a</span> |
-| ? | <span class="kuwi big center">?a</span> |
-| ! | <span class="kuwi big center">!a</span> |
+| . | <span class="kuwi big center">.</span> |
+| ? | <span class="kuwi big center">?</span> |
+| ! | <span class="kuwi big center">!</span> |
