@@ -26,13 +26,11 @@ export default defineConfig({
               { text: 'Ambiguity', link: '/pages/key-concepts/ambiguity' },
               { text: 'Prepositions', link: '/pages/key-concepts/prepositions' },
               { text: 'Spacing', link: '/pages/key-concepts/spacing' },
-              { text: 'Writing Names', link: '/pages/key-concepts/writing-names' },
+              { text: 'Names', link: '/pages/key-concepts/names' },
               { text: 'Punctuation', link: '/pages/key-concepts/punctuation' }
             ]
           },
           { text: 'Dictionary', link: '/pages/dictionary' },
-          { text: 'Graphemes', link: '/pages/graphemes' },
-          { text: 'Story', link: '/pages/story' },
           {
             text: 'Resources',
             items: [
