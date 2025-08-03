@@ -8,7 +8,7 @@ PUNCTUATION = '.?!'
 
 print("# Dictionary")
 print("## Glyphs")
-print("### Content Words")
+print("### Content words")
 print("| sitelen Lasina | sitelen Kuwi |")
 print("| :-: | :-: |")
 for word in CONTENT:
@@ -18,7 +18,7 @@ print("| sitelen Lasina | sitelen Kuwi |")
 print("| :-: | :-: |")
 for word in PARTICLES:
     print(f"| {word} | <span class=\"kuwi big center\">{word}</span> |")
-print("### Function Words")
+print("### Function words")
 print("| sitelen Lasina | sitelen Kuwi | sitelen Kuwi (horizontal) |")
 print("| :-: | :-: | :-: |")
 for word in FUNCTION:

@@ -1,6 +1,6 @@
 # Dictionary
 ## Glyphs
-### Content Words
+### Content words
 | sitelen Lasina | sitelen Kuwi |
 | :-: | :-: |
 | akesi | <span class="kuwi big center">akesi-</span> |
@@ -136,7 +136,7 @@
 | li | <span class="kuwi big center">li</span> |
 | o | <span class="kuwi big center">o</span> |
 | pi | <span class="kuwi big center">pi</span> |
-### Function Words
+### Function words
 | sitelen Lasina | sitelen Kuwi | sitelen Kuwi (horizontal) |
 | :-: | :-: | :-: |
 | a | <span class="kuwi big center">a</span> | <span class="kuwi big center">a--</span> |
