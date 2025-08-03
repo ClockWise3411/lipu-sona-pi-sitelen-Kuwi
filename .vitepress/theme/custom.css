@@ -3,12 +3,13 @@
   src: url(sitelen.Kuwi.otf) format("opentype");
 }
 
-.kuwi, span.text {
+.kuwi, .kuwi-run, span.text {
   font-family: sitelen kuwi;
   font-feature-settings: "liga" 1; /* enable ligatures */
   overflow-wrap: normal; /* stop auto-wrapping */
   letter-spacing: 0 !important;
-  display: inline-block
+  display: inline-block;
+  word-break: keep-all
 }
 
 .medium {
