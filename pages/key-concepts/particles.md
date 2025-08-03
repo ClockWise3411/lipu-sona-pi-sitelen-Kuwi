@@ -13,6 +13,6 @@ Here is a list of all grammatical particles:
 | pi | <span class="kuwi big center">pi</span> |
 | o | <span class="kuwi big center">o</span> |
 
-All particles sit on the left side of the phrase they modify, with the exception of <span class="yellow">la</span>, which sits on the right side. In the sentence, "tenpo pini <span class="yellow">la</span> soweli lili li moku", "<span class="yellow">la</span>" sits on the right of "tenpo pini".
+All particles sit on the left side of the phrase they modify, with the exception of <span class="blue">la</span>, which sits on the right side. In the sentence, "tenpo pini <span class="blue">la</span> soweli lili li moku", "<span class="blue">la</span>" sits on the right of "tenpo pini".
  
-<span class="kuwi big center">tenpopini<span class="yellow">la</span> sowelilili limoku-</span>
+<span class="kuwi big center">tenpopini<span class="blue">la</span> sowelilili limoku-</span>
