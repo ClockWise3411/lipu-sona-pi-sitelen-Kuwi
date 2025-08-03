@@ -6,13 +6,15 @@ CONSONANTS = 'ptkmnlwjs'
 VOWELS = list('aeiou')
 PUNCTUATION = '.?!'
 
+blank = "<span class=\"gray\">-</span>"
+
 print("# Dictionary")
 print("## Glyphs")
 print("### Content words")
 print("| sitelen Lasina | sitelen Kuwi |")
 print("| :-: | :-: |")
 for word in CONTENT:
-    print(f"| {word} | <span class=\"kuwi big center\">{word}-</span> |")
+    print(f"| {word} | <span class=\"kuwi big center\">{word}{blank}</span> |")
 print("### Particles")
 print("| sitelen Lasina | sitelen Kuwi |")
 print("| :-: | :-: |")
@@ -22,23 +24,23 @@ print("### Function words")
 print("| sitelen Lasina | sitelen Kuwi | sitelen Kuwi (horizontal) |")
 print("| :-: | :-: | :-: |")
 for word in FUNCTION:
-    print(f"| {word.strip('-')} | <span class=\"kuwi big center\">{word}</span> | <span class=\"kuwi big center\">{word}--</span> |")
+    print(f"| {word.strip('-')} | <span class=\"kuwi big center\">{word}</span> | <span class=\"kuwi big center\">{word}-{blank}</span> |")
 print("### Name Glyphs")
 print("| sitelen Lasina | sitelen Kuwi |")
 print("| :-: | :-: |")
 for word in NAME:
-    print(f"| {word} | <span class=\"kuwi big center\">{word.lower()}-</span> |")
+    print(f"| {word} | <span class=\"kuwi big center\">{word.lower()}{blank}</span> |")
 print("## Graphemes")
 print("### Consonants")
 print("| sitelen Lasina | sitelen Kuwi |")
 print("| :-: | :-: |")
 for consonant in CONSONANTS:
-    print(f"| {consonant} | <span class=\"kuwi big center\">{consonant.upper()}-</span> |")
+    print(f"| {consonant} | <span class=\"kuwi big center\">{consonant.upper()}{blank}</span> |")
 print("### Vowels")
 print("| sitelen Lasina | sitelen Kuwi | sitelen Lasina with n | sitelen Kuwi with n |")
 print("| :-: | :-: | :-: | :-: |")
 for vowel in VOWELS:
-    print(f"| {vowel.strip('-')} | <span class=\"kuwi big center\">{vowel.upper()}-</span> | {vowel.strip('-')}n | <span class=\"kuwi big center\">{vowel.upper()}N--</span> |")
+    print(f"| {vowel.strip('-')} | <span class=\"kuwi big center\">{vowel.upper()}{blank}</span> | {vowel.strip('-')}n | <span class=\"kuwi big center\">{vowel.upper()}N-{blank}</span> |")
 print("## Punctuation")
 print("| sitelen Lasina | sitelen Kuwi |")
 print("| :-: | :-: |")
