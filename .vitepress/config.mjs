@@ -18,26 +18,27 @@ export default defineConfig({
         items: [
           { text: 'Introduction', link: '/pages/introduction' },
           {
-            text: 'How to use',
+            text: 'Key concepts',
             items: [
-              { text: 'Block Structure', link: '/pages/how-to-use/block-structure' },
-              { text: 'Particles', link: '/pages/how-to-use/particles' },
-              { text: 'Function Words', link: '/pages/how-to-use/function-words' },
-              { text: 'Ambiguity', link: '/pages/how-to-use/ambiguity' },
-              { text: 'Prepositions', link: '/pages/how-to-use/prepositions' },
-              { text: 'Spacing', link: '/pages/how-to-use/spacing' },
-              { text: 'Writing Names', link: '/pages/how-to-use/writing-names' },
-              { text: 'Punctuation', link: '/pages/how-to-use/punctuation' }
+              { text: 'Block Structure', link: '/pages/key-concepts/block-structure' },
+              { text: 'Particles', link: '/pages/key-concepts/particles' },
+              { text: 'Function Words', link: '/pages/key-concepts/function-words' },
+              { text: 'Ambiguity', link: '/pages/key-concepts/ambiguity' },
+              { text: 'Prepositions', link: '/pages/key-concepts/prepositions' },
+              { text: 'Spacing', link: '/pages/key-concepts/spacing' },
+              { text: 'Writing Names', link: '/pages/key-concepts/writing-names' },
+              { text: 'Punctuation', link: '/pages/key-concepts/punctuation' }
             ]
           },
           { text: 'Dictionary', link: '/pages/dictionary' },
           { text: 'Graphemes', link: '/pages/graphemes' },
           { text: 'Story', link: '/pages/story' },
           {
-            text: 'Font',
+            text: 'Resources',
             items: [
-              { text: 'Instructions', link: '/pages/font/instructions' },
-              { text: 'Download', link: '/pages/font/download' }
+              { text: 'sitelen Kuwi', link: '/pages/resources/sitelen-kuwi' },
+              { text: 'font', link: '/pages/resources/font' },
+              { text: 'toki pona', link: '/pages/resources/toki-pona' }
             ]
           }
         ]
