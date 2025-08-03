@@ -148,7 +148,7 @@
 ### Name Glyphs
 | sitelen Lasina | sitelen Kuwi |
 | :-: | :-: |
-| kuwi | <span class="kuwi big center">kuwi-</span> |
+| Kuwi | <span class="kuwi big center">kuwi-</span> |
 ## Graphemes
 ### Consonants
 | sitelen Lasina | sitelen Kuwi |
