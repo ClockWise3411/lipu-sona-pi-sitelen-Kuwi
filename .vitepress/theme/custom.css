@@ -7,7 +7,7 @@
   font-family: sitelen kuwi;
   font-feature-settings: "liga" 1; /* enable ligatures */
   overflow-wrap: normal; /* stop auto-wrapping */
-  font-variant-ligatures: discretionary-ligatures;
+  text-rendering: optimizeLegibility;
 }
 
 span.text {
