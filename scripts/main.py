@@ -4,7 +4,6 @@ FUNCTION = ['a', 'anu', 'en', 'kin', 'taso', 'n-']
 NAME = ['kuwi']
 CONSONANTS = 'ptkmnlwjs'
 VOWELS = list('aeiou')
-VOWELS += [i + "n-" for i in VOWELS]
 PUNCTUATION = '.?!'
 
 print("# Dictionary")
@@ -31,17 +30,15 @@ for word in NAME:
     print(f"| {word} | <span class=\"kuwi big center\">{word}</span> |")
 print("## Graphemes")
 print("### Consonants")
-print("Here are all the consonants with vowel *a*.")
 print("| sitelen Lasina | sitelen Kuwi |")
 print("| :-: | :-: |")
 for consonant in CONSONANTS:
-    print(f"| {consonant}a | <span class=\"kuwi big center\">{consonant.upper()}A</span> |")
+    print(f"| {consonant} | <span class=\"kuwi big center\">{consonant.upper()}-</span> |")
 print("### Vowels")
-print("Here are all the vowels with consonant *p*.")
-print("| sitelen Lasina | sitelen Kuwi |")
-print("| :-: | :-: |")
+print("| sitelen Lasina | sitelen Kuwi | sitelen Lasina with n | sitelen Kuwi with n |")
+print("| :-: | :-: | :-: | :-: |")
 for vowel in VOWELS:
-    print(f"| p{vowel.strip('-')} | <span class=\"kuwi big center\">P{vowel.upper()}</span> |")
+    print(f"| {vowel.strip('-')} | <span class=\"kuwi big center\">{vowel.upper()}-</span> | {vowel.strip('-')}n | <span class=\"kuwi big center\">{vowel.upper()}N-</span> |")
 print("## Punctuation")
 print("| sitelen Lasina | sitelen Kuwi |")
 print("| :-: | :-: |")
