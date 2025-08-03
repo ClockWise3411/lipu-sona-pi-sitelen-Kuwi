@@ -8,6 +8,8 @@
   font-feature-settings: "liga" 1; /* enable ligatures */
   overflow-wrap: normal; /* stop auto-wrapping */
   white-space: nowrap !important;
+  word-break: keep-all;
+  line-break: strict;        /* avoid East Asian break rules interfering */
 }
 
 .medium {
