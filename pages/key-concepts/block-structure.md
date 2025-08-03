@@ -1,8 +1,8 @@
 # Block Structure
 sitelen Kuwi is a block-based system (similar to Korean) with each block containing up to three pieces: 
 
-- two <span class="yellow">semantic halves</span>, and 
-- one <span class="red">grammatical marker</span> (i.e. a particle).
+- two <span class="red">semantic halves</span>, and 
+- one <span class="yellow">grammatical marker</span> (i.e. a particle).
 
 <span class="kuwi center big"><span class="yellow">li</span><span class="red">00</span></span>
 
