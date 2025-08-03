@@ -10,6 +10,7 @@
   white-space: nowrap !important;
   word-break: keep-all;
   line-break: strict;        /* avoid East Asian break rules interfering */
+  display: inline-block;
 }
 
 .medium {
