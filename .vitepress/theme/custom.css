@@ -5,9 +5,8 @@
 
 .kuwi, span.text {
   font-family: sitelen kuwi;
-  font-feature-settings: "liga" 1; /* enable ligatures */
+  font-feature-settings: "liga" 1, "clig" 1, "rlig" 1;
   overflow-wrap: normal; /* stop auto-wrapping */
-  text-rendering: optimizeLegibility;
 }
 
 span.text {
