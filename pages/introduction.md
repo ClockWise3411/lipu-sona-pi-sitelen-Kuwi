@@ -24,8 +24,8 @@ What does this have to do with legibility? Well, let’s take a detour to Japane
   - For example, the characters <ruby>ひ<rt>hi</rt>ら<rt>ra</rt>が<rt>ga</rt>な<rt>na</rt></ruby> each represent one syllable, and when put together, they make up the word "hiragana".
 - **Katakana** is similar in function to Hiragana but different in use. It is mainly used for more recent loan words (as compared to Kanji).
 
-Along with just the functional differences, there are also clear visual differences: Kanji tend to be more complex with many straight and angled lines while Hiragana tend to be curvier and more simple in comparison. Here is an example with Kanji in <span class="red">red</span> and Hiragana in <span class="yellow">yellow</span>:   
-> <span class="red">私</span><span class="yellow">は</span><span class="red">食堂</span><span class="yellow">で</span><span class="red">食</span><span class="yellow">べます</span>。  
+Along with just the functional differences, there are also clear visual differences: Kanji tend to be more complex with many straight and angled lines while Hiragana tend to be curvier and more simple in comparison. Here is an example with Kanji in <span class="red">red</span> and Hiragana in <span class="blue">blue</span>:   
+> <span class="red">私</span><span class="blue">は</span><span class="red">食堂</span><span class="blue">で</span><span class="red">食</span><span class="blue">べます</span>。  
 
 Hopefully, it is clear from this example how these visual cues can quickly tell the reader where semantic meaning ends and grammar begins, which is exactly what I wanted to have as well. I wanted visual cues that could quickly tell the reader what part of toki pona’s grammatical patterns they are looking at. 
 
