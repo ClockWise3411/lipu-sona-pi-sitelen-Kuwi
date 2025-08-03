@@ -5,13 +5,15 @@ export default defineConfig({
   base: "/lipu-sona-pi-sitelen-Kuwi/",  // 👈 must have trailing slash
   title: "lipu sona pi sitelen Kuwi",
   description: "o kama sona e sitelen Kuwi!",
+  head: [
+    ['link', { rel: 'icon', href: '/lipu-sona-pi-sitelen-Kuwi/.vitepress/theme/logo.png' }]
+  ],
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+    logo: '/.vitepress/theme/logo.png',
     nav: [
       { text: 'introduction', link: '/pages/introduction' },
       { text: 'how to use', link: '/pages/block-structure' }
     ],
-
     sidebar: [
       {
         text: 'Guide',
@@ -42,7 +44,6 @@ export default defineConfig({
         ]
       }
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ClockWise3411/sitelen-leko' }
     ]

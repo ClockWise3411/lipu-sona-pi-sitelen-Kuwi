@@ -25,7 +25,7 @@ print("| sitelen Lasina | sitelen Kuwi | sitelen Kuwi (horizontal) |")
 print("| :-: | :-: | :-: |")
 for word in FUNCTION:
     print(f"| {word.strip('-')} | <span class=\"kuwi big center\">{word}</span> | <span class=\"kuwi big center\">{word}-{blank}</span> |")
-print("### Name Glyphs")
+print("### Name glyphs")
 print("| sitelen Lasina | sitelen Kuwi |")
 print("| :-: | :-: |")
 for word in NAME:

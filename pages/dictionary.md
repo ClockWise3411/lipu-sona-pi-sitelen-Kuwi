@@ -145,7 +145,7 @@
 | kin | <span class="kuwi big center">kin</span> | <span class="kuwi big center">kin-<span class="gray">-</span></span> |
 | taso | <span class="kuwi big center">taso</span> | <span class="kuwi big center">taso-<span class="gray">-</span></span> |
 | n | <span class="kuwi big center">n-</span> | <span class="kuwi big center">n--<span class="gray">-</span></span> |
-### Name Glyphs
+### Name glyphs
 | sitelen Lasina | sitelen Kuwi |
 | :-: | :-: |
 | Kuwi | <span class="kuwi big center">kuwi<span class="gray">-</span></span> |
