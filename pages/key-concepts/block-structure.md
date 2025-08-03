@@ -12,7 +12,7 @@ The top half of the block functions as the head and the bottom half as a modifie
 
 In toki pona, when a phrase (head + modifiers) contains more than two words, only the first word acts as the head. The same applies to having more than one block in sitelen Kuwi. Only the top half of the first block acts as the head. For example, here's how you would write "<span class="red">soweli</span> <span class="blue">lili suwi mute</span>":
 
-<span class="kuwi center big"><span class="red">soweli</span><span class="blue">lilisuwimute</span></span>
+<span class="kuwi center big"><span class="kuwi-run"><span class="red">soweli</span><span class="blue">lilisuwimute</span></span></span>
 
 If a phrase contains only one head and no modifiers, we use the special "empty" glyph <span class="kuwi medium">-</span> which carries neither a semantic meaning nor pronunciation. This means that the sentence "<span class="red">soweli</span> li <span class="blue">lili</span>" would look like this:
 
