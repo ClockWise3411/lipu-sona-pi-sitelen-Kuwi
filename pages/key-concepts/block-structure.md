@@ -4,7 +4,7 @@ sitelen Kuwi is a block-based system (similar to Korean) with each block contain
 - two <span class="red">semantic halves</span>, and 
 - one <span class="green">grammatical marker</span> (i.e. a particle).
 
-<span class="kuwi center big"><span class="green">li</span><span class="red">00</span></span>
+<span class="kuwi center big"><span class="kuwi-run"><span class="green">li</span><span class="red">00</span></span></span>
 
 The top half of the block functions as the head and the bottom half as a modifier. For example, "<span class="red">soweli</span> <span class="blue">lili</span>" can be written like this: 
 
