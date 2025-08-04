@@ -1,5 +1,5 @@
 # Addressing Ambiguity in toki pona
-A lot of what makes this sitelen special, in my opinion, is the ability to clear ambiguity in certain cases without changing anything in toki pona. Sometimes, the role content words play in a sentence can be slightly unclear. Spoken speech, on the other hand, comes with more context and the ability to verbally stress certain ideas, so this may not be as much as an issue. However, it still stands that written communication heavily lacks these things, leaving room for ambiguity to creep up on us. The good news is, there is a solution to this built right into the structure of sitelen Kuwi.
+A lot of what makes this sitelen special, in my opinion, is the ability to clear ambiguity in certain cases without changing anything in toki pona. Sometimes, the role content words play in a sentence can be slightly unclear. Spoken speech, on the other hand, comes with more context and the ability to verbally stress certain ideas, so this may not be as much of an issue. However, it still stands that written communication heavily lacks these things, leaving room for ambiguity to creep up on us. The good news is, there is a solution to this built right into the structure of sitelen Kuwi.
 
 To exemplify this, imagine you want a person to release an animal of yours that happens to be squirming about. You can say:
 > Release my wriggling animal!
@@ -54,7 +54,7 @@ Spacing is the final way in which we can control for ambiguity and improve legib
 
 <span class="kuwi center big">sowelisina  liwilemoku  etelokili  anu  seme-?</span> 
 
-<span class="kuwi center big">sowelisinaliwilemokuetelokilianuseme-</span>
+<span class="kuwi center big">sowelisinaliwilemokuetelokilianuseme-?</span>
 
 However, spaces can still be used to group and separate ideas to further mark out connections and boundaries. For example, the sentence "soweli lili li moku ala moku e telo jelo jaki anu kili lili laso?" could be separated like this:
 
