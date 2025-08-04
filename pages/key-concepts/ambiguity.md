@@ -1,10 +1,10 @@
-# Addressing Ambiguity in toki pona
+# Addressing ambiguity in toki pona
 A lot of what makes this sitelen special, in my opinion, is the ability to clear ambiguity in certain cases without changing anything in toki pona. Sometimes, the role content words play in a sentence can be slightly unclear. Spoken speech, on the other hand, comes with more context and the ability to verbally stress certain ideas, so this may not be as much as an issue. However, it still stands that written communication heavily lacks these things, leaving room for ambiguity to creep up on us. The good news is, there is a solution to this built right into the structure of sitelen Kuwi.
 
 To exemplify this, imagine you want a person to release an animal of yours that happens to be squirming about. You can say:
 > Release my wriggling animal!
 
-Or, in toki pona: 
+Or in toki pona: 
 > o pana e soweli tawa mi!
 
 You might have already noticed issue here. Many speakers might interpret this to mean "give the animal to me," even if that is not what you intended to say. 
@@ -21,7 +21,7 @@ As you can see, "<span class="blue">tawa</span>" is occupying the bottom half of
 
 We can see here there is an intentional separation between <span class="red">soweli</span> and <span class="blue">tawa</span> using <span class="kuwi medium">-</span>. This helps to emphasise that <span class="blue">tawa</span> is working as a preposition and NOT modifying <span class="red">soweli</span>.
 
-### 1st and 2nd Person Pronouns:
+### 1st and 2nd person pronouns:
 As most proficient toki pona speakers would know, the pronouns “mi” and “sina” are not directly followed by “li.” This manifests in an interesting way in sitelen leko as this is the only time the bottom half of a block may not necessarily interpreted as a modifier. Instead, one block alone can constitute a whole clause, like "<span class="red">mi</span> <span class="blue">moku</span>":
 
 <span class="kuwi big center"><span class="red">mi</span><span class="blue">moku</span></span>
@@ -41,7 +41,7 @@ Similar to what we saw with "tawa" above, "lon" can act as a modifier when occup
 or "...e soweli <span class="green">lon</span> tomo mi" ("an animal <span class="green">in</span> my house")
 <span class="kuwi big center">esoweli- <span class="green">lon</span>- tomomi</span>
 
-As seen above, when "lon" acts as a stand alone preposition, it will take <span class="kuwi medium">-</span>(as seen above), but when "lon" defines the following content word as a location such as "insa" or "poka," that new content word will occupy the bottom half of the lon block. Otherwise, it will be as a noun. Take this sentence as an example: "telo loje li tawa <span class="green">lon</span> <span class="red">insa</span> mi"
+As seen above, when "lon" acts as a stand alone preposition, it will take <span class="kuwi medium">-</span> (as seen above), but when "lon" defines the following content word as a location such as "insa" or "poka," that new content word will occupy the bottom half of the lon block. Otherwise, it will be as a noun. Take this sentence as an example: "telo loje li tawa <span class="green">lon</span> <span class="red">insa</span> mi"
 
 <span class="kuwi big center">teloloje litawa- <span class="green">lon</span><span class="red">insa</span> mi-</span> 
 ("blood is flowing inside me")

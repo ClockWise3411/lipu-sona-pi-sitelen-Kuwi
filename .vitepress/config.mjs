@@ -26,8 +26,7 @@ export default defineConfig({
               { text: 'Particles', link: '/pages/key-concepts/particles' },
               { text: 'Function Words', link: '/pages/key-concepts/function-words' },
               { text: 'Ambiguity', link: '/pages/key-concepts/ambiguity' },
-              { text: 'Names', link: '/pages/key-concepts/names' },
-              { text: 'Punctuation', link: '/pages/key-concepts/punctuation' }
+              { text: 'Names and Punctuation', link: '/pages/key-concepts/names-and-punctuation' },
             ]
           },
           { text: 'Dictionary', link: '/pages/dictionary' },
