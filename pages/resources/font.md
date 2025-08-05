@@ -1,12 +1,12 @@
-# Using the Sitelen Kuwi Font
+# Using the sitelen Kuwi Font
 
-Thank you for trying out sitelen leko! I’ve decided to make this quick guide on how to use the file because without it you may find yourself lost, unsure how to access certain glyphs or even feeling some things just won’t type how you’d expect.
+Thank you for trying out sitelen Kuwi! I’ve decided to make this quick guide on how to use the file because without it you may find yourself lost, unsure how to access certain glyphs or even feeling some things just won’t type how you’d expect.
 
 ### Download and First Use
 
-Once you download the font file, which you can find [here](), install the font. On most systems, this usually means opening the downloaded file and clicking an "install" button. From there, all you need to do is change the font in settings of the software you choose to use it with. Please note that the font file will only be accessible on locally installed software, while online applications such as Google Docs will not support it. 
+Once you download the font file, which you can find [here](https://github.com/ClockWise3411/sitelen-leko-Kuwi/raw/refs/heads/main/sitelen.Kuwi.otf), install the font. On most systems, this would mean opening the downloaded file and clicking an "install" button. From there, all you need to do is change the font in settings of the software you choose to use it with. Please note that the font file will only be accessible on locally installed software, while online applications such as Google Docs will not support it. 
 
-### How to Type With Sitelen Kuwi
+### How to Type With sitelen Kuwi
 
 Firstly, each glyph is a ligature. All you need to do to access a glyph is type the latin letters of the desired word:
  

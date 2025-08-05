@@ -23,7 +23,7 @@ jansonapitenpomute lilon- lijo- esowelitawa. tenposunowan-la soweliona litawa- m
 
 
 ## Transliteration
-<span class="medium center">jan sona en soweli ona</span>
+**jan sona en soweli ona**
 
 jan sona pi tenpo mute li lon li jo o soweli tawa. tenpo suno wan la soweli ona li tawa ma tomo pi jan ike. tenpo pi kute ni la, jan mute pi ma tomo pi jan sona li toki e ni tawa ona: “soweli sina li tawa a! ni li ike wawa a!” jan sona li kute li toki sona e ni: 
 

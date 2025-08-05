@@ -33,9 +33,15 @@ export default defineConfig({
           {
             text: 'Resources',
             items: [
-              { text: 'sitelen Kuwi', link: '/pages/resources/sitelen-kuwi' },
+              { 
+                text: 'sitelen Kuwi', 
+                items: [
+                  { text: "Story", link: '/pages/resources/story' },
+                  { text: "Art", link: '/pages/resources/art' },
+                ]
+              },
               { text: 'font', link: '/pages/resources/font' },
-              { text: 'toki pona', link: '/pages/resources/toki-pona' }
+              { text: 'toki pona', link: 'https://sona.pona.la/wiki/Learning_Resources' }
             ]
           }
         ]
