@@ -14,7 +14,7 @@ For syllables that end in -n, the vowel takes a special nasalised form. "jan <sp
 
 If the first syllable of a word is a vowel with no consonant, the vowel will occupy the top half of the glyph and <span class="kuwi medium">-</span> will occupy the bottom half. For example, the "A" in "ma <span class="blue">A</span>sija" has its own block here:
 
-<span class="kuwi big center">ma-<span class="blue">A</span>-sija</span>
+<span class="kuwi big center">ma-<span class="blue">A</span>-SIJA</span>
 
 If the initial syllable starts with a vowel and ends with an /n/, then the syllable can be written either with a nasalised vowel and <span class="kuwi medium">-</span>, or as a vowel and N glyph. This means "toki <span class="blue">In</span>li" can be written two ways:
 
