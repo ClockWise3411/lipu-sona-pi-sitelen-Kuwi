@@ -10,6 +10,7 @@
 | anpa | <span class="kuwi big center">anpa<span class="gray">-</span></span> |
 | ante | <span class="kuwi big center">ante<span class="gray">-</span></span> |
 | awen | <span class="kuwi big center">awen<span class="gray">-</span></span> |
+| eliki | <span class="kuwi big center">eliki<span class="gray">-</span></span> |
 | epiku | <span class="kuwi big center">epiku<span class="gray">-</span></span> |
 | esun | <span class="kuwi big center">esun<span class="gray">-</span></span> |
 | ijo | <span class="kuwi big center">ijo<span class="gray">-</span></span> |
@@ -47,6 +48,7 @@
 | lete | <span class="kuwi big center">lete<span class="gray">-</span></span> |
 | lili | <span class="kuwi big center">lili<span class="gray">-</span></span> |
 | linja | <span class="kuwi big center">linja<span class="gray">-</span></span> |
+| linluwi | <span class="kuwi big center">linluwi<span class="gray">-</span></span> |
 | lipu | <span class="kuwi big center">lipu<span class="gray">-</span></span> |
 | loje | <span class="kuwi big center">loje<span class="gray">-</span></span> |
 | lon | <span class="kuwi big center">lon<span class="gray">-</span></span> |
@@ -54,6 +56,7 @@
 | lukin | <span class="kuwi big center">lukin<span class="gray">-</span></span> |
 | lupa | <span class="kuwi big center">lupa<span class="gray">-</span></span> |
 | ma | <span class="kuwi big center">ma<span class="gray">-</span></span> |
+| majuna | <span class="kuwi big center">majuna<span class="gray">-</span></span> |
 | mama | <span class="kuwi big center">mama<span class="gray">-</span></span> |
 | mani | <span class="kuwi big center">mani<span class="gray">-</span></span> |
 | meli | <span class="kuwi big center">meli<span class="gray">-</span></span> |
@@ -98,6 +101,7 @@
 | selo | <span class="kuwi big center">selo<span class="gray">-</span></span> |
 | seme | <span class="kuwi big center">seme<span class="gray">-</span></span> |
 | sewi | <span class="kuwi big center">sewi<span class="gray">-</span></span> |
+| Sewi | <span class="kuwi big center">Sewi<span class="gray">-</span></span> |
 | sijelo | <span class="kuwi big center">sijelo<span class="gray">-</span></span> |
 | sike | <span class="kuwi big center">sike<span class="gray">-</span></span> |
 | sin | <span class="kuwi big center">sin<span class="gray">-</span></span> |
@@ -107,6 +111,7 @@
 | soko | <span class="kuwi big center">soko<span class="gray">-</span></span> |
 | sona | <span class="kuwi big center">sona<span class="gray">-</span></span> |
 | soweli | <span class="kuwi big center">soweli<span class="gray">-</span></span> |
+| su | <span class="kuwi big center">su<span class="gray">-</span></span> |
 | suli | <span class="kuwi big center">suli<span class="gray">-</span></span> |
 | suno | <span class="kuwi big center">suno<span class="gray">-</span></span> |
 | supa | <span class="kuwi big center">supa<span class="gray">-</span></span> |
