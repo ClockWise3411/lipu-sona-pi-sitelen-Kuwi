@@ -131,11 +131,11 @@
 ### Particles
 | sitelen Lasina | sitelen Kuwi |
 | :-: | :-: |
-| e | <span class="kuwi big center">e</span> |
-| la | <span class="kuwi big center">la</span> |
-| li | <span class="kuwi big center">li</span> |
-| o | <span class="kuwi big center">o</span> |
-| pi | <span class="kuwi big center">pi</span> |
+| e | <span class="kuwi big center">e<span class="gray">00</span></span> |
+| la | <span class="kuwi big center"><span class="gray">00</span>la</span> |
+| li | <span class="kuwi big center">li<span class="gray">00</span></span> |
+| o | <span class="kuwi big center">o<span class="gray">00</span></span> |
+| pi | <span class="kuwi big center">pi<span class="gray">00</span></span> |
 ### Function words
 | sitelen Lasina | sitelen Kuwi | sitelen Kuwi (horizontal) |
 | :-: | :-: | :-: |

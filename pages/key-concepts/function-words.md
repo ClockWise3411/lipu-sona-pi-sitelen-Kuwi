@@ -22,6 +22,6 @@ I like to replace <span class="kuwi medium">-</span> with "a" just for fun, like
 
 <span class="kuwi center big">nimini lipona<span class="blue">a-</span>!</span>
 
-When being using function words as content words, be wary. <span class="blue">n</span>, <span class="blue">taso</span> and <span class="blue">anu</span> may be misinterpreted as <span class="red">sitelen</span>, <span class="red">wan</span> and <span class="red">uta</span>. The glyphs only differ slightly in that the function words are not connected at the top.
+When using function words as content words, be wary. <span class="blue">n</span>, <span class="blue">taso</span> and <span class="blue">anu</span> may be misinterpreted as <span class="red">sitelen</span>, <span class="red">wan</span> and <span class="red">uta</span>. The glyphs only differ slightly in that the function words are not connected at the top.
 
 <span class="kuwi center big"><span class="red">sitelen</span><span class="blue">n--</span> <span class="red">wan</span><span class="blue">taso-</span> <span class="red">uta</span><span class="blue">anu-</span></span>
