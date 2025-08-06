@@ -1,6 +1,5 @@
-
-# Adding More Contras to Toki Pona
-A lot of what makes this sitelen special, in my opinion, is the ability to create contrast without changing toki pona grammatically or in any other way. In written toki pona, sometimes, the role content words play in a sentence can be slightly unclear. Spoken speech, on the other hand, comes with more context and the ability to verbally stress certain ideas and ask your conversation partner for more information when you feel you don't understand. So because written communication heavily lacks these important queues, a reader may occasionally be left unsure what the writer had intended to say. The good news is, there is a "solution" to this built right into the structure of sitelen Kuwi.
+# Adding More Contrast to toki pona
+A lot of what makes this sitelen special, in my opinion, is that it gives us the ability to create contrast without changing toki pona grammatically or in any other way. In written toki pona, sometimes, the role content words play in a sentence can be slightly unclear. Spoken speech, on the other hand, comes with more context and the ability to verbally stress certain ideas and ask your conversation partner for more information when you feel you don't understand. So because written communication heavily lacks these important queues, a reader may occasionally be left unsure what the writer had intended to say. The good news is, there is a "solution" to this built right into the structure of sitelen Kuwi.
 
 To exemplify this, imagine you want a person to release an animal of yours that happens to be squirming about. You can say:
 > Release my wriggling animal!
@@ -34,7 +33,7 @@ However, when the predicate that follows “mi” or “sina” contains a modif
 Below is not the recommended way to express this
 <span class="big center kuwi"><span class="red">mi</span><span class="blue">soweli ala-</span></span>
 
-### Using lon
+### Using "lon"
 Similar to what we saw with "tawa" above, "lon" can act as a modifier when occupying the bottom half of a block or as a preposition when occupying the top half, such as in "soweli <span class="blue">lon</span>" (a <span class="blue">real</span> animal):
 
 <span class="kuwi big center">soweli<span class="blue">lon</span></span>
