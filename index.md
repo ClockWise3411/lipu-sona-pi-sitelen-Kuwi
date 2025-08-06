@@ -16,9 +16,10 @@ hero:
 
 features:
   - title: Stacking glyphs
-    details: 
+    details: Stack glyphs together to define concepts as sepparate from surrounding glyphs
+
   - title: Distinct glyph shapes based on parts of speech
-    details: 
+    details: Quickly identify key parts of through unique visual identities of glyphs
 
 ---
 

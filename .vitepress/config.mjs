@@ -11,8 +11,8 @@ export default defineConfig({
   themeConfig: {
     logo: '/logo.png',
     nav: [
-      { text: 'introduction', link: '/pages/introduction' },
-      { text: 'how to use', link: '/pages/block-structure' }
+      { text: 'font', link: '/pages/resources/font' },
+      { text: 'dictionary', link: '/pages/dictionary' }
     ],
     sidebar: [
       {
