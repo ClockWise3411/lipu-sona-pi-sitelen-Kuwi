@@ -1,6 +1,6 @@
 
-# Addressing Ambiguity in toki pona
-A lot of what makes this sitelen special, in my opinion, is the ability to clear ambiguity in certain cases without changing anything in toki pona. Sometimes, the role content words play in a sentence can be slightly unclear. Spoken speech, on the other hand, comes with more context and the ability to verbally stress certain ideas, so this may not be as much of an issue. However, it still stands that written communication heavily lacks these things, leaving room for ambiguity to creep up on us. The good news is, there is a solution to this built right into the structure of sitelen Kuwi.
+# Adding More Contras to Toki Pona
+A lot of what makes this sitelen special, in my opinion, is the ability to create contrast without changing toki pona grammatically or in any other way. In written toki pona, sometimes, the role content words play in a sentence can be slightly unclear. Spoken speech, on the other hand, comes with more context and the ability to verbally stress certain ideas and ask your conversation partner for more information when you feel you don't understand. So because written communication heavily lacks these important queues, a reader may occasionally be left unsure what the writer had intended to say. The good news is, there is a "solution" to this built right into the structure of sitelen Kuwi.
 
 To exemplify this, imagine you want a person to release an animal of yours that happens to be squirming about. You can say:
 > Release my wriggling animal!
@@ -23,7 +23,7 @@ As you can see, "<span class="blue">tawa</span>" is occupying the bottom half of
 We can see here there is an intentional separation between <span class="red">soweli</span> and <span class="blue">tawa</span> using <span class="kuwi medium">-</span>. This helps to emphasise that <span class="blue">tawa</span> is working as a preposition and NOT modifying <span class="red">soweli</span>.
 
 ### 1st and 2nd Person Pronouns:
-As most proficient toki pona speakers would know, the pronouns “mi” and “sina” are not directly followed by “li.” This manifests in an interesting way in sitelen leko as this is the only time the bottom half of a block may not necessarily be interpreted as a modifier. Instead, one block alone can constitute a whole clause, like "<span class="red">mi</span> <span class="blue">moku</span>":
+Since the pronouns “mi” and “sina” are not directly followed by “li,” this manifests itself in an interesting way in sitelen Kuwi, as this is the only time the bottom half of a block may not necessarily be interpreted as a modifier. Instead, one block alone can constitute a whole clause, like "<span class="red">mi</span> <span class="blue">moku</span>":
 
 <span class="kuwi big center"><span class="red">mi</span><span class="blue">moku</span></span>
 
@@ -31,7 +31,7 @@ However, when the predicate that follows “mi” or “sina” contains a modif
 
 <span class="kuwi big center"><span class="red">mi-</span> <span class="blue">soweliala</span></span>
 
-Below is an incorrect way to write the same sentence.
+Below is not the recommended way to express this
 <span class="big center kuwi"><span class="red">mi</span><span class="blue">soweli ala-</span></span>
 
 ### Using lon
@@ -51,12 +51,12 @@ As seen above, when "lon" acts as a stand alone preposition, it will take <span 
 ("blood is trickling down my guts")(your guts aren't necessarily inside you, they may be on the gound)
 
 ### Spacing
-Spacing is the final way in which we can control for ambiguity and improve legibility in sitelen Kuwi. Because content words, particles, and function words are all easy to distinguish visually, spaces are not exactly necessary:
+Spacing is the final way in which we can create more contrast between concepts and improve legibility within sitelen Kuwi. Because content words, particles, and function words are all easy to distinguish visually, spaces are not exactly necessary:
 
 <span class="kuwi center big">sowelisina  liwilemoku  etelokili  anu  seme-?</span> 
 
 <span class="kuwi center big">sowelisinaliwilemokuetelokilianuseme-?</span>
 
-However, spaces can still be used to group and separate ideas to further mark out connections and boundaries. For example, the sentence "soweli lili li moku ala moku e telo jelo jaki anu kili lili laso?" could be separated like this:
+However, spaces can still be used to group and separate ideas to further mark out connections and boundaries. For example, the sentence "waso suli en soweli lili li moku ala moku e kili jelo jaki?" could be separated like this:
 
-<span class="kuwi big center">sowelilili  limokualamoku-  etelojelojaki-  anu  kililililaso-?</span>
+<span class="kuwi big center">wasosuli en sowelilili  limokualamoku-  ekilijelojaki-?</span>
