@@ -1,4 +1,4 @@
-Here are a few pictures of art made in sitelen Kuwi.
+<span class="center">Here is some community art having fun with sitelen Kuwi</span>
 
 ![](media/abbsvac98ggf1.png)
 
