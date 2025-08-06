@@ -1,15 +1,15 @@
 # What is sitelen Kuwi?
 
-**sitelen Kuwi**, also referred to by some as sitelen leko, is a script for **toki pona**. I originally designed this script for a separate project that was similar to toki pona, but after putting the project on hiatus, I decided to repurpose the script. 
+**sitelen Kuwi**, also referred to by some as sitelen leko, is a script for **toki pona**. I originally designed this script for a separate project that was similar to toki pona functionally, but after putting the project on hiatus, I decided to repurpose the script here.
 
 ## Why not just use sitelen pona? 
-Unfortunately, I’ve never been a huge fan of sitelen pona, both aesthetically and functionally. This isn't to say sitelen pona is ugly or doesn't function well, but aesthetically, I personally have other preferences, and functionally, sitelen pona has its own issues that I personally wanted to address, which i will go into shortly.  
+Sitelen Kuwi has its own visual identity and writing style apart from sitelen pona.  It is for those who want to expiriment with something new while staying true to the essence and structure of toki pona. My hope is that sitelen Kuwi will find its own niche, just as sitelen suwi has, and live in tandem with sitelen pona, sitelen Lasina, and all other sitelen the community has come to adore.
 
 ## What were my goals when creating this script?
-I have always been somewhat dissatisfied with sitelen pona, and in my many years of attempts to discover what was behind that sentiment and what I actually wanted out of a toki pona script, I tried to develop various other ways to write toki pona. Eventually, I found myself returning to two issues time and time again: **ambiguity** and **readability**. but what does this mean?
+For a very long time I  have been drawn to the idea of creating a new script for toki pona. Written language is my passion beyond all else; I love seeing new and innovative ways to mark thoughts on paper and finding something beautiful in the different shapes of other languages, and through this passion I wanted to contribute to toki pona. But I wanted to do something that hasn't been done before, so I needed to approach it differently than I would any other project of mine. So I approached it from two different angles: **Contrast** and **readability**. but what does this mean?
 
-### Ambiguity
-toki pona is naturally an ambiguous language, which is **completely fine**. I have no problem with this in general, but what if there was a way to eliminate _some_ ambiguity without changing the way the language functions at all? What if, when reading and writing (which are the main ways through which users consume material for toki pona), there were intuitive visual clues that could reduce some of this ambiguity? For example, what if we could more easily see if a word is acting as a preposition or noun and more easily show the relationship between different words? This is a question I toyed with in many different ways in my many different attempts to create a new writing system.
+### Contrast
+toki pona is naturally an ambiguous language, which is **completely fine**. But what if there was a way to eliminate _some_ ambiguity by creating more contrast between ideas in written communication? What If I could do this without changing the way the language functions at all? What if, when reading and writing (which are the main ways through which users consume material for toki pona), there were intuitive visual clues that could create this contrast? These are questions I toyed with in many different ways in my many different attempts to create a new writing system.
 
 ### Readability
 I consider toki pona to have three major categories for the syntactic role a word can play: 
