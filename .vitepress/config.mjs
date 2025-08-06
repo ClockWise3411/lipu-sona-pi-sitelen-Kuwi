@@ -40,8 +40,9 @@ export default defineConfig({
                   { text: "Art", link: '/pages/resources/art' },
                 ]
               },
-              { text: 'font', link: '/pages/resources/font' },
-              { text: 'toki pona', link: 'https://sona.pona.la/wiki/Learning_Resources' }
+              { text: 'Font', link: '/pages/resources/font' },
+              { text: 'toki pona', link: 'https://sona.pona.la/wiki/Learning_Resources' },
+              { text: 'Contact', link: '/pages/resources/contact' }
             ]
           }
         ]
