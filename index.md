@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "lipu pona pi sitelen Kuwi"
+  name: "lipu sona pi sitelen Kuwi"
   text: "lipusonapisitelenkuwi"
   tagline: 'o kama sona!'
   actions:
