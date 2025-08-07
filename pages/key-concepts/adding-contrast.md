@@ -55,3 +55,4 @@ Spacing is the final way in which we can create more contrast between concepts w
 However, spaces can still be used to group and separate ideas to further mark out connections and boundaries. For example, the sentence "waso lili mute en soweli suli tu wan li moku ala moku e kili jelo jaki?" could be separated like this:
 
 <span class="kuwi big center">wasolilimute- en sowelisulituwan  limokualamoku-  ekilijelojaki-?</span>
+
