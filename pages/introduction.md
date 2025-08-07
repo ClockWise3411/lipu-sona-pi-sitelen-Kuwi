@@ -1,9 +1,9 @@
 # What is sitelen Kuwi?
 
-**sitelen Kuwi**, also referred to by some as sitelen leko, is a script for **toki pona**. I originally designed this script for a separate project that was similar to toki pona functionally, but after putting the project on hiatus, I decided to repurpose the script here.
+**Sitelen Kuwi**, also referred to by some as sitelen leko, is a script for **toki pona**. I originally designed this script for a separate project that was similar to toki pona functionally, but after putting the project on hiatus, I decided to repurpose the script here.
 
 ## What Niche Does sitelen Kuwi Fill?
-Sitelen Kuwi has its own visual identity and writing style apart from sitelen pona and sitelen suwi.  It is for those who want to expiriment with something new while staying true to the essence and structure of toki pona. My hope is that sitelen Kuwi will find its own niche, just as sitelen suwi has, and live in tandem with sitelen pona, sitelen Lasina, and all other sitelen the community has come to adore.
+Sitelen Kuwi has its own visual identity and writing style apart from sitelen pona and sitelen suwi.  It is for those who want to experiment with something new while staying true to the essence and structure of toki pona. My hope is that sitelen Kuwi will find its own niche, just as sitelen suwi has, and live in tandem with sitelen pona, sitelen Lasina, and all other sitelen the community has come to adore.
 
 ## What were my goals when creating this script?
 For a very long time I  have been drawn to the idea of creating a new script for toki pona. Written language is my passion beyond all else; I love seeing new and innovative ways to mark thoughts on paper and finding something beautiful in the different shapes of other languages, and through this passion I wanted to contribute to toki pona. But I wanted to do something that hasn't been done before, so I needed to approach it differently than I would any other project of mine. So I approached it from two different angles: **Adding Contrast** and **Visual Parsing**. but what does this mean?
@@ -30,4 +30,4 @@ Along with just the functional differences, there are also clear visual differen
 Hopefully, it is clear from this example how these visual cues can quickly tell the reader where semantic meaning ends and grammar begins, which is exactly what I wanted to have as well. I wanted visual cues that could quickly tell the reader what part of toki pona’s grammatical patterns they are looking at. 
 
 ## Summary
-sitelen Kuwi is a project I undertook to create a script that is much easier to parse grammatically, such that readers can easily pick up on the functions and relationships of different words through orthography alone. Of course, this does not take away from my other objective of creating something I personally find aesthetically pleasing and fun to play with.
+Sitelen Kuwi is a project I undertook to create a script that is much easier to parse grammatically, such that readers can easily pick up on the functions and relationships of different words through orthography alone. Of course, this does not take away from my other objective of creating something I personally find aesthetically pleasing and fun to play with.
