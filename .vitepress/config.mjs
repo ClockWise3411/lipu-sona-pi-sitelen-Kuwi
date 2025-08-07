@@ -6,7 +6,16 @@ export default defineConfig({
   title: "lipu sona pi sitelen Kuwi",
   description: "o kama sona e sitelen Kuwi!",
   head: [
-    ['link', { rel: 'icon', href: '/lipu-sona-pi-sitelen-Kuwi/logo.png' }]
+    ['link', { rel: 'icon', href: '/lipu-sona-pi-sitelen-Kuwi/logo.png' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'lipu sona pi sitelen Kuwi' }],
+    ['meta', { property: 'og:description', content: 'o kama sona e sitelen Kuwi!' }],
+    ['meta', { property: 'og:image', content: 'https://clockwise3411.github.io/lipu-sona-pi-sitelen-Kuwi/preview.png' }],
+    ['meta', { property: 'og:url', content: 'https://clockwise3411.github.io/lipu-sona-pi-sitelen-Kuwi' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'lipu sona pi sitelen Kuwi' }],
+    ['meta', { name: 'twitter:description', content: 'o kama sona e sitelen Kuwi!' }],
+    ['meta', { name: 'twitter:image', content: 'https://clockwise3411.github.io/lipu-sona-pi-sitelen-Kuwi/preview.png' }]
   ],
   themeConfig: {
     logo: '/logo.png',
