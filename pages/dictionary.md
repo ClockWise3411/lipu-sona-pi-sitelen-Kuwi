@@ -189,3 +189,5 @@
 | . | <span class="kuwi big center">.</span> |
 | ? | <span class="kuwi big center">?</span> |
 | ! | <span class="kuwi big center">!</span> |
+| : | <span class="kuwi big center">:</span> |
+| ( ) | <span class="kuwi big center">( )</span> |
