@@ -8,11 +8,11 @@ Most likely the intention of this sentence would be very clear based on context.
 
 Our initial interpretation, passing a photo over:
 > o pana e <span class="red">sitelen</span> <span class="blue">tawa</span> mi
-<span class="kuwi big center">opana e<span class="red">sitelen</span>- <span class="blue">tawa</span>- mi-</span>
+<span class="kuwi big center">opana- e<span class="red">sitelen</span>- <span class="blue">tawa</span>- mi-</span>
 
 And our second interpretation, publishing a video:
 > o pana e <span class="green">sitelen tawa</span> mi
-<span class="kuwi big center">opana e<span class="green">sitelentawa</span> mi-</span>
+<span class="kuwi big center">opana- e<span class="green">sitelentawa</span> mi-</span>
 
 As you can see, because the bottom half of a block defines a word as a modifier for the top half, in our second interpretation "tawa" can't be acting as anything but an adjective for "sitelen," while in the first interpretation we can use <span class="kuwi medium">-</span> after "sitelen" to create a contrast between the words, making it impossible to interpret tawa as modifier, leaving it as a preposition as the only option. Again, context will almost always account for this in a conversation, but being able to create this contrast in orthography and eliminating the need for context in some situations is something I think is just fun and cool.
 
