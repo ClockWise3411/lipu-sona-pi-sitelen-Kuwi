@@ -1,6 +1,7 @@
 # Dictionary
-## Glyphs
-### Nimi pu (Content words only)
+### Glyphs
+## Nimi pu 
+### (Content words only)
 | sitelen Lasina | sitelen Kuwi |
 | :-: | :-: |
 | akesi | <span class="kuwi big center">akesi<span class="gray">-</span></span> |
