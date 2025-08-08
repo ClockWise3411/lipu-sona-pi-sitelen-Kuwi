@@ -8,7 +8,7 @@
 
 ![](media/Screenshot%202025-08-05%20at%2009.42.02.png)
 
-![](media/Screenshot%202025-08-05%20at%2009.42.41.png
+![](media/Screenshot%202025-08-05%20at%2009.42.41.png)
 
 ![](media/Screenshot%202025-08-05%20at%2009.44.17.png)
 
