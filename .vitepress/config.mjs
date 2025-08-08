@@ -20,8 +20,8 @@ export default defineConfig({
   themeConfig: {
     logo: '/logo.png',
     nav: [
-      { text: 'font', link: '/pages/resources/font' },
-      { text: 'dictionary', link: '/pages/dictionary' }
+      { text: 'Dictionary', link: '/pages/dictionary' },
+      { text: 'Contact', link: '/pages/resources/contact' }
     ],
     sidebar: [
       {
