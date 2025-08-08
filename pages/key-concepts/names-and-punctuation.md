@@ -23,11 +23,11 @@ If the initial syllable starts with a vowel and ends with an /n/, then the sylla
 
 ### Punctuation
 
-Punctuation is pretty straight forward in sitelen Kuwi. There are only three marks and are written at the end of the sentence as expected: ., ?, !
+Punctuation is pretty straight forward in sitelen Kuwi. There are only four marks which are written at the end of the sentence as expected: ., ?, !, : as well as a set of parentheses ( )
 
-<span class="kuwi big center">. ? !</span>
+<span class="kuwi big center">. ? ! : ( )</span>
 
-If you want to do quotes around a phrase you can use two <span class="kuwi medium">.</span> marks on either side of the quoted phrase. Using this mark as quotes this way is completely optional and more of a stylistic choice. This is how the sentence "ona li toki e ni: mi wile ala e ni" would look with these quotes: 
+When quoting a person, instead of using <span class="kuwi medium">:</span>, you can use two  <span class="kuwi medium">.</span> marks on either side of the quoted phrase. Using this mark as quotes this way is completely optional and more of a stylistic choice. This is how the sentence "ona li toki e ni: mi wile ala e ni" would look with these quotes: 
 
 <span class="kuwi big center">ona- litoki- eni- ..mi- wileala eni-..</span>
 
