@@ -1,6 +1,6 @@
 # Dictionary
 ### Glyphs
-## Nimi pu 
+## nimi pu 
 ### (Content words only)
 | sitelen Lasina | sitelen Kuwi |
 | :-: | :-: |
