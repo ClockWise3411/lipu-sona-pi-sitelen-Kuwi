@@ -4,7 +4,7 @@
 
 When you need to write a proper name or any other word outside of toki pona's list of official words, you can use the phonetic script (sitelen kalama) alongside the regular script. 
 
-sitelen kalama follows the same structure as the rest of sitelen Kuwi, where the blocks are split in two halves. This time, however, the top half usually takes a <span class="red">consonant</span> while the bottom usually takes a <span class="blue">vowel</span>. This is what "ma Kanata" would look like:
+Sitelen kalama follows the same structure as the rest of sitelen Kuwi, where the blocks are split into two halves. This time, however, the top half usually takes a <span class="red">consonant</span> while the bottom usually takes a <span class="blue">vowel</span>. This is what "ma Kanata" would look like:
 
 <span class="kuwi big center">ma-<span class="red">K</span><span class="blue">A</span><span class="red">N</span><span class="blue">A</span><span class="red">T</span><span class="blue">A</span></span>
 
@@ -27,10 +27,10 @@ Punctuation is pretty straight forward in sitelen Kuwi. There are only four mark
 
 <span class="kuwi big center">. ? ! : ( )</span>
 
-When quoting a person, instead of using <span class="kuwi medium">:</span>, you can use two  <span class="kuwi medium">.</span> marks on either side of the quoted phrase. Using this mark as quotes this way is completely optional and more of a stylistic choice. This is how the sentence "ona li toki e ni: mi wile ala e ni" would look with these quotes: 
+However, when quoting a person, instead of using <span class="kuwi medium">:</span>, you can use two  <span class="kuwi medium">.</span> marks on either side of the quoted phrase. Using this mark as quotes this way is completely optional and more of a stylistic choice. This is how the sentence "ona li toki e ni: mi wile ala e ni" would look with these quotes: 
 
-<span class="kuwi big center">ona- litoki- eni- ..mi- wileala eni-..</span>
+<span class="kuwi big center">ona- litoki- e_ni- ..mi- wileala e_ni-..</span>
 
 If the quoted phrase were to end in a ? or !, the final <span class="kuwi medium">.</span> at the end of the quote can be replaced with the appropriate mark. Again, this is a stylistic choice and completely optional, but it's how I choose to use the script. Here's an example using "ona li toki e ni: tenpo ni la sina sona a e sitelen Kuwi!"
 
-<span class="kuwi big center">ona- litoki- eni- ..tenponila sinasona a esitelenkuwi.!</span>
+<span class="kuwi big center">ona- litoki- e_ni- ..tenponila sinasona a esitelenkuwi.!</span>
