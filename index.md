@@ -12,7 +12,7 @@ hero:
       link: /pages/introduction
     - theme: alt
       text: Use the font
-      link: /pages/resources/font
+      link: /pages/resources/font#font-tester
 
 features:
   - title: Stacking glyphs

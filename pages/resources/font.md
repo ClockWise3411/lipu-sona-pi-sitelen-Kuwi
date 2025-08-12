@@ -1,3 +1,7 @@
+<script setup>
+import Test from '../components/test.vue'
+</script>
+
 # Using the sitelen Kuwi Font
 
 Thank you for trying out sitelen Kuwi! I’ve decided to make this quick guide on how to use the file because without it you may find yourself lost, unsure how to access certain glyphs or even feeling some things just won’t type how you’d expect.
@@ -58,3 +62,6 @@ Thank you for reading my guide!
 
 mi pana e pona tawa sina ale tan ni: sina lukin e lipu ni pi nasin kepeken.
 <span class="kuwi big center">mipana epona- tawa- sinaale tanni. sinalukin elipuni pinasinkepeken</span>
+
+## Font Tester
+<Test />
