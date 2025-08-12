@@ -35,6 +35,7 @@
 | kute | <span class="kuwi big center">kute<span class="gray">-</span></span> |
 | kuwi | <span class="kuwi big center">kuwi<span class="gray">-</span></span> |
 | lape | <span class="kuwi big center">lape<span class="gray">-</span></span> |
+| laso | <span class="kuwi big center">laso<span class="gray">-</span></span> |
 | lawa | <span class="kuwi big center">lawa<span class="gray">-</span></span> |
 | len | <span class="kuwi big center">len<span class="gray">-</span></span> |
 | lete | <span class="kuwi big center">lete<span class="gray">-</span></span> |
@@ -79,6 +80,7 @@
 | pini | <span class="kuwi big center">pini<span class="gray">-</span></span> |
 | pipi | <span class="kuwi big center">pipi<span class="gray">-</span></span> |
 | poka | <span class="kuwi big center">poka<span class="gray">-</span></span> |
+| poki | <span class="kuwi big center">poki<span class="gray">-</span></span> |
 | pona | <span class="kuwi big center">pona<span class="gray">-</span></span> |
 | pu | <span class="kuwi big center">pu<span class="gray">-</span></span> |
 | sama | <span class="kuwi big center">sama<span class="gray">-</span></span> |
