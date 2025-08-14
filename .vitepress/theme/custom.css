@@ -1,5 +1,5 @@
 @font-face {
-  font-family: sitelen kuwi !important;
+  font-family: sitelen kuwi;
   src: url(https://raw.githubusercontent.com/ClockWise3411/sitelen-leko-Kuwi/main/sitelen.Kuwi.otf) format("opentype");
 }
 
@@ -8,7 +8,7 @@
 }
 
 .kuwi, .kuwi-run, span.text {
-  font-family: sitelen kuwi;
+  font-family: sitelen kuwi !important;
   font-feature-settings: "liga" 1; /* enable ligatures */
   overflow-wrap: normal; /* stop auto-wrapping */
   letter-spacing: 0 !important;
