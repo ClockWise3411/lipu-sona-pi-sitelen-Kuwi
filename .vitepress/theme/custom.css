@@ -4,10 +4,10 @@
 }
 
 * {
- 
+  font-family: Inter
 }
 
-.kuwi, .kuwi-run, span.text {
+.kuwi, span.text, .kuwi >* {
   font-family: sitelen kuwi !important;
   font-feature-settings: "liga" 1; /* enable ligatures */
   overflow-wrap: normal; /* stop auto-wrapping */
