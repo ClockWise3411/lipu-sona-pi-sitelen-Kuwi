@@ -3,11 +3,7 @@
   src: url(https://raw.githubusercontent.com/ClockWise3411/sitelen-leko-Kuwi/main/sitelen.Kuwi.otf) format("opentype");
 }
 
-* {
-  font-family: Inter
-}
-
-.kuwi, span.text, .kuwi > * {
+.kuwi, .kuwi-run, span.text {
   font-family: sitelen kuwi !important;
   font-feature-settings: "liga" 1; /* enable ligatures */
   overflow-wrap: normal; /* stop auto-wrapping */
@@ -45,7 +41,8 @@
 input.test {
   border: solid white 1px;
   border-radius: 25px;
-  font-size: 1.5rem
+  font-size: 1.5rem;
+  font-family: Inter
 }
 
 .test {
