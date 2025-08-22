@@ -118,7 +118,7 @@
 | wawa | <span class="kuwi big center">wawa<span class="gray">-</span></span> |
 | weka | <span class="kuwi big center">weka<span class="gray">-</span></span> |
 | wile | <span class="kuwi big center">wile<span class="gray">-</span></span> |
-## nimi pu sin
+## nimi su
 | sitelen Lasina | sitelen Kuwi |
 | :-: | :-: |
 | eliki | <span class="kuwi big center">eliki<span class="gray">-</span></span> |
